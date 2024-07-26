@@ -1,6 +1,6 @@
 # CoGAT-PPIS
 ## Overview
-This repository is the source code of CoGAT-PPIS, a sequence-based PPI site prediction model. It contains the input features and source code of CoGAT-PPIS.
+This repository is the source code of CoGAT-PPIS, a sequence-based PPI site prediction model, containing the input features and source code of CoGAT-PPIS.
 
 ## Installation
 ```bash
@@ -9,14 +9,15 @@ git lfs clone git@github.com:Slam1423/CoGAT_PPIS_3.git
 
 ## Requirements:
 - Linux
-- python 3.6.9+
-- biopython 1.79
-- pybiolib 1.1.988
-- pytorch 1.10.0
-- scikit-learn 0.24.2
-- numpy 1.19.5
-- pandas 1.1.5
-- scipy 1.5.4
+- python 3.11
+- dgl 2.2.1
+- pytorch 2.2.2
+- scikit-learn 1.4.2
+- numpy 1.26.4
+- pandas 2.2.1
+- scipy 1.13.0
+- transformers 4.37.2
+- tqdm 4.66.4
 
 ## How to run
 
