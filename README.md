@@ -24,10 +24,3 @@ git lfs clone git@github.com:Slam1423/CoGAT_PPIS_3.git
 ```bash
 python train.py
 ```
-
-### Step2: Training
-
-```bash
-python3 train.py
-```
-
