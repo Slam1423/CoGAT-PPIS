@@ -4,7 +4,7 @@ This repository is the source code of CoGAT-PPIS, a sequence-based PPI site pred
 
 ## Installation
 ```bash
-git lfs clone git@github.com:Slam1423/CoGAT_PPIS.git
+git lfs clone git@github.com:Slam1423/CoGAT-PPIS.git
 ```
 
 ## Requirements:
