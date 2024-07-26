@@ -22,5 +22,6 @@ git lfs clone git@github.com:Slam1423/CoGAT-PPIS.git
 ## How to run
 
 ```bash
+unzip data_cache.zip
 python train.py
 ```
