@@ -1,6 +1,6 @@
 # CoGAT-PPIS
 ## Overview
-This repository is the source code of CoGAT-PPIS, a sequence-based PPI site prediction model, containing the input features and source code of CoGAT-PPIS.
+This repository is the source code of CoGAT-PPIS, a sequence-based PPI site prediction model, containing the datasets, input features and source code of CoGAT-PPIS.
 
 ## Installation
 ```bash
